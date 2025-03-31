@@ -53,7 +53,11 @@ APP Funcionando:
 
 
 
-https://github.com/user-attachments/assets/b793d3dc-41ed-4f0d-84d4-739fb58dca77
+
+https://github.com/user-attachments/assets/573fd1e4-6352-4a4f-9003-6950b5f176b0
+
+
+
 
 
 📝 Licença
