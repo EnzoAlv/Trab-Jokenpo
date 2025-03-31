@@ -49,6 +49,13 @@ Web
 🛠️ Personalização
 Você pode personalizar o aplicativo alterando as imagens ou ajustando o design no arquivo jogo.dart.
 
+APP Funcionando:
+
+
+
+https://github.com/user-attachments/assets/b793d3dc-41ed-4f0d-84d4-739fb58dca77
+
+
 📝 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
